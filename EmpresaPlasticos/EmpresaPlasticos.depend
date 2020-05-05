@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1588104531 source:c:\users\user\desktop\lic. en sistemas\2do año\algoritmos y estructuras de datos\2020\trabajo practico cuatrimestral\proyecto\empresaplasticos\cilindro.cpp
+
+1588104499 source:c:\users\user\desktop\lic. en sistemas\2do año\algoritmos y estructuras de datos\2020\trabajo practico cuatrimestral\proyecto\empresaplasticos\cubo.cpp
+
+1588104572 source:c:\users\user\desktop\lic. en sistemas\2do año\algoritmos y estructuras de datos\2020\trabajo practico cuatrimestral\proyecto\empresaplasticos\rectangulo.cpp
+
+1588104603 source:c:\users\user\desktop\lic. en sistemas\2do año\algoritmos y estructuras de datos\2020\trabajo practico cuatrimestral\proyecto\empresaplasticos\triangulo.cpp
+
+1588105448 source:c:\users\user\desktop\lic. en sistemas\2do año\algoritmos y estructuras de datos\2020\trabajo practico cuatrimestral\proyecto\empresaplasticos\main.cpp
+	<cstdlib>
+	<iostream>
+	"Circulo.h"
+
+1588105696 c:\users\user\desktop\lic. en sistemas\2do año\algoritmos y estructuras de datos\2020\trabajo practico cuatrimestral\proyecto\empresaplasticos\circulo.h
+	"Constantes.h"
+
+1588105696 c:\users\user\desktop\lic. en sistemas\2do año\algoritmos y estructuras de datos\2020\trabajo practico cuatrimestral\proyecto\empresaplasticos\constantes.h
+
+1588641212 source:f:\users\usuario\documents\algoritmos\ayed 2020\empresaplasticos\circulo.cpp
+	"Circulo.h"
+	"Constantes.h"
+	<math.h>
+
+1588641367 f:\users\usuario\documents\algoritmos\ayed 2020\empresaplasticos\circulo.h
+
+1588105696 f:\users\usuario\documents\algoritmos\ayed 2020\empresaplasticos\constantes.h
+
+1588639826 source:f:\users\usuario\documents\algoritmos\ayed 2020\empresaplasticos\cubo.cpp
+	"Cubo.h"
+	<math.h>
+
+1588641181 f:\users\usuario\documents\algoritmos\ayed 2020\empresaplasticos\cubo.h
+
+1588639480 source:f:\users\usuario\documents\algoritmos\ayed 2020\empresaplasticos\cilindro.cpp
+	"Cilindro.h"
+	"Constantes.h"
+	<math.h>
+
+1588640514 f:\users\usuario\documents\algoritmos\ayed 2020\empresaplasticos\cilindro.h
+
+1588639852 source:f:\users\usuario\documents\algoritmos\ayed 2020\empresaplasticos\rectangulo.cpp
+	"Rectangulo.h"
+
+1588639919 f:\users\usuario\documents\algoritmos\ayed 2020\empresaplasticos\rectangulo.h
+
+1588108150 source:f:\users\usuario\documents\algoritmos\ayed 2020\empresaplasticos\triangulo.cpp
+	"Triangulo.h"
+
+1588640408 f:\users\usuario\documents\algoritmos\ayed 2020\empresaplasticos\triangulo.h
+
+1588640715 source:f:\users\usuario\documents\algoritmos\ayed 2020\empresaplasticos\main.cpp
+	<cstdlib>
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	"Circulo.h"
+	"Cilindro.h"
+	"Cubo.h"
+	"Rectangulo.h"
+	"Triangulo.h"
+
