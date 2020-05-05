@@ -5,6 +5,10 @@ typedef struct{
     float radio;
 }CIRCULO;
 
+void constructor(CIRCULO &circ);
+
+void destructor(CIRCULO &circ);
+
 void circuloSetRadio(CIRCULO &circ, float radio);
 
 float circuloGetRadio(CIRCULO &circ);

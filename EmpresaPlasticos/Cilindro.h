@@ -7,6 +7,10 @@ typedef struct{
     float altura;
 }CILINDRO;
 
+void constructor(CILINDRO &cili);
+
+void destructor(CILINDRO &cili);
+
 void cilindroSetRadio(CILINDRO &cili, float radio);
 
 void cilindroSetAltura(CILINDRO &cili, float altura);
@@ -16,4 +20,5 @@ float cilindroGetRadio(CILINDRO &cili);
 float cilindroGetAltura(CILINDRO &cili);
 
 float cilindroArea(CILINDRO &cili);
+
 #endif // CILINDRO_H_INCLUDED

@@ -1,6 +1,14 @@
 #include "Cubo.h"
 #include <math.h>
 
+void constructor(CUBO &cubo){
+    cubo.longitud=1;
+}
+
+void destructor(CUBO &cubo){
+    destructor(cubo);
+}
+
 void cuboSetLongitud (CUBO &cubo, float longitud){
     cubo.longitud = longitud;
 }

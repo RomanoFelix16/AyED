@@ -6,6 +6,10 @@ typedef struct{
     float altura;
 } RECTANGULO;
 
+void constructor(RECTANGULO &rect);
+
+void destructor(RECTANGULO &rect);
+
 void rectanguloSetBase(RECTANGULO &rect, float base);
 
 void rectanguloSetAltura(RECTANGULO &rect, float altura);

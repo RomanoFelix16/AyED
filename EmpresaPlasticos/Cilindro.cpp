@@ -2,6 +2,17 @@
 #include "Constantes.h"
 #include <math.h>
 
+void constructor(CILINDRO &cili){
+    constructor(cili.radio);
+
+    //Inicializo la altura
+    cili.altura=1;
+}
+
+void destructor(CILINDRO &cili){
+    destructor(cili);
+}
+
 void cilindroSetRadio(CILINDRO &cili, float radio){
     cili.radio = radio;
 }

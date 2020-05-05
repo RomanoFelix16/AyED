@@ -1,5 +1,13 @@
 #include "Triangulo.h"
 
+void constructor(TRIANGULO &tri){
+
+}
+
+void destructor(TRIANGULO &tri){
+    destructor(tri);
+}
+
 void trianguloSetCatetoMayor(TRIANGULO &tri, float cMayor){
     tri.cMayor = cMayor;
 }

@@ -1,5 +1,16 @@
 #include "Rectangulo.h"
 
+void constructor(RECTANGULO &rect){
+    constructor(rect.base);
+
+    //Inicializo la altura
+    rect.altura=1;
+}
+
+void destructor(RECTANGULO &rect){
+    destructor(rect);
+}
+
 void rectanguloSetBase(RECTANGULO &rect, float base){
     rect.base = base;
 }

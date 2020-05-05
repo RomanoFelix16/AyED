@@ -5,6 +5,10 @@ typedef struct{
     float longitud;
 } CUBO;
 
+void constructor(CUBO &cubo);
+
+void destructor(CUBO &cubo);
+
 void cuboSetLongitud(CUBO &cubo, float longitud);
 
 float cuboGetLongitud (CUBO &cubo);

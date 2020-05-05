@@ -6,6 +6,10 @@ typedef struct{
     float cMenor;
 } TRIANGULO;
 
+void constructor(TRIANGULO &tri);
+
+void destructor(TRIANGULO &tri);
+
 void trianguloSetCatetoMayor(TRIANGULO &tri, float cMayor);
 
 float trianguloGetCatetoMayor(TRIANGULO &tri);

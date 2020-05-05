@@ -2,8 +2,19 @@
 #include "Constantes.h"
 #include <math.h>
 
+/** Implemento primitivas */
+
+void constructor(CIRCULO &circ){
+    circ.radio=1;
+}
+
+void destructor(CIRCULO &circ){
+}
+
 void circuloSetRadio(CIRCULO &circ, float radio){
-    circ.radio = radio;
+    if(radio>0){
+        circ.radio=radio;
+    }
 }
 
 float circuloGetRadio(CIRCULO &circ){
