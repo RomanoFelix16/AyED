@@ -3,10 +3,8 @@
 #include <math.h>
 
 void constructor(CILINDRO &cili){
-    constructor(cili.radio);
-
-    //Inicializo la altura
-    cili.altura=1;
+    cili.radio=0;
+    cili.altura=0;
 }
 
 void destructor(CILINDRO &cili){

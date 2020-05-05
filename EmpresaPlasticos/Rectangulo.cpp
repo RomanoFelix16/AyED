@@ -1,10 +1,8 @@
 #include "Rectangulo.h"
 
 void constructor(RECTANGULO &rect){
-    constructor(rect.base);
-
-    //Inicializo la altura
-    rect.altura=1;
+    rect.base=0;
+    rect.altura=0;
 }
 
 void destructor(RECTANGULO &rect){

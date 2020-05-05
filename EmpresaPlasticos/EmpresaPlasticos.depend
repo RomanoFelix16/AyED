@@ -103,3 +103,43 @@
 1588642889 source:c:\users\user\desktop\lic. en sistemas\2do año\algoritmos y estructuras de datos\2020\trabajo practico cuatrimestral\proyecto\ayed-master\ayed-master\empresaplasticos\triangulo.cpp
 	"Triangulo.h"
 
+1588645683 source:c:\users\user\desktop\lic. en sistemas\2do año\algoritmos y estructuras de datos\2020\trabajo practico cuatrimestral\proyecto\ayed-master\empresaplasticos\main.cpp
+	<cstdlib>
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	"Circulo.h"
+	"Cilindro.h"
+	"Cubo.h"
+	"Rectangulo.h"
+	"Triangulo.h"
+
+1588712214 c:\users\user\desktop\lic. en sistemas\2do año\algoritmos y estructuras de datos\2020\trabajo practico cuatrimestral\proyecto\ayed-master\empresaplasticos\circulo.h
+
+1588712446 c:\users\user\desktop\lic. en sistemas\2do año\algoritmos y estructuras de datos\2020\trabajo practico cuatrimestral\proyecto\ayed-master\empresaplasticos\cilindro.h
+
+1588713268 c:\users\user\desktop\lic. en sistemas\2do año\algoritmos y estructuras de datos\2020\trabajo practico cuatrimestral\proyecto\ayed-master\empresaplasticos\cubo.h
+
+1588714061 c:\users\user\desktop\lic. en sistemas\2do año\algoritmos y estructuras de datos\2020\trabajo practico cuatrimestral\proyecto\ayed-master\empresaplasticos\rectangulo.h
+
+1588714232 c:\users\user\desktop\lic. en sistemas\2do año\algoritmos y estructuras de datos\2020\trabajo practico cuatrimestral\proyecto\ayed-master\empresaplasticos\triangulo.h
+
+1588713727 source:c:\users\user\desktop\lic. en sistemas\2do año\algoritmos y estructuras de datos\2020\trabajo practico cuatrimestral\proyecto\ayed-master\empresaplasticos\circulo.cpp
+	"Circulo.h"
+	"Constantes.h"
+	<math.h>
+
+1588645683 c:\users\user\desktop\lic. en sistemas\2do año\algoritmos y estructuras de datos\2020\trabajo practico cuatrimestral\proyecto\ayed-master\empresaplasticos\constantes.h
+
+1588713727 source:c:\users\user\desktop\lic. en sistemas\2do año\algoritmos y estructuras de datos\2020\trabajo practico cuatrimestral\proyecto\ayed-master\empresaplasticos\cubo.cpp
+	"Cubo.h"
+	<math.h>
+
+1588715404 source:c:\users\user\desktop\lic. en sistemas\2do año\algoritmos y estructuras de datos\2020\trabajo practico cuatrimestral\proyecto\ayed-master\empresaplasticos\cilindro.cpp
+	"Cilindro.h"
+	"Constantes.h"
+	<math.h>
+
+1588714232 source:c:\users\user\desktop\lic. en sistemas\2do año\algoritmos y estructuras de datos\2020\trabajo practico cuatrimestral\proyecto\ayed-master\empresaplasticos\triangulo.cpp
+	"Triangulo.h"
+
