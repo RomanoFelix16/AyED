@@ -8,8 +8,16 @@ float trianguloGetCatetoMayor(TRIANGULO &tri){
     return tri.cMayor;
 }
 
+void trianguloSetCatetoMenor(TRIANGULO &tri, float cMenor){
+    tri.cMenor = cMenor;
+}
+
+float trianguloGetCatetoMenor(TRIANGULO &tri){
+    return tri.cMenor;
+}
+
 float areaTriangulo(TRIANGULO &tri){
-    return ;
+    return (tri.cMayor*tri.cMenor)/2;
 }
 
 /** Implemento primitivas */

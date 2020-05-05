@@ -3,11 +3,16 @@
 
 typedef struct{
     float cMayor;
+    float cMenor;
 } TRIANGULO;
 
 void trianguloSetCatetoMayor(TRIANGULO &tri, float cMayor);
 
 float trianguloGetCatetoMayor(TRIANGULO &tri);
+
+void trianguloSetCatetoMenor(TRIANGULO &tri, float cMenor);
+
+float trianguloGetCatetoMenor(TRIANGULO &tri);
 
 float areaTriangulo(TRIANGULO &tri);
 
